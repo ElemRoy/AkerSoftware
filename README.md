@@ -1,4 +1,4 @@
-This code is supposed to be uploaded and executed on a specific device
+This code is supposed to be uploaded and executed on a specific device (smart charging station called "Aker")
 
 How to compile:
   - Download and install Arduino IDE
